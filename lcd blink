@@ -15,7 +15,7 @@ void setup() {
  
   lcd.begin(16, 2);
  
-  lcd.print("hello, boy");
+  lcd.print("hello,world");
 }
 
 void loop() {
